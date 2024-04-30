@@ -4,7 +4,7 @@
 <br>
 
 ## 🧑‍🎓 Programmers
-[![](https://github.com/libtv/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/libtv/github-programmers-rank)
+[![](https://github.com/Chehok/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/Chehok/github-programmers-rank)
 
 <br>
 
@@ -102,4 +102,4 @@ jobs:
 
 then, result svg files path is "./lib" : 결과물은 lib 폴더에 존재합니다. 
 
-[![](https://github.com/libtv/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/libtv/github-programmers-rank)
+[![](https://github.com/Chehok/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/Chehok/github-programmers-rank)
